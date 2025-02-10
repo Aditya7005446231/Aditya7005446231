@@ -1,4 +1,5 @@
 # Hi there 👋, I’m Aditya Raj Rai
+![GIF Title](https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif)
 
 I'm a **passionate Computer Science student** who loves creating impactful projects, solving challenging problems, and learning new technologies every day.
 
