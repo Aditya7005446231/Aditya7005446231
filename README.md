@@ -1,5 +1,6 @@
 # Hi there 👋, I’m Aditya Raj Rai
-![GIF Title](https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif)
+
+![Boy working on PC](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 I'm a **passionate Computer Science student** who loves creating impactful projects, solving challenging problems, and learning new technologies every day.
 
@@ -37,8 +38,6 @@ I'm a **passionate Computer Science student** who loves creating impactful proje
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap"/>
 </p>
 
-
-
 ---
 
 ### 🛠 Projects:
@@ -51,7 +50,6 @@ I'm a **passionate Computer Science student** who loves creating impactful proje
 
 3. **🤖 AI Chatbot Website** – *(Python, OpenAI API)*  
    An interactive AI chatbot built using Python and the OpenAI API. It helps users with their questions and interacts just like a real human!
-
 
 ---
 
